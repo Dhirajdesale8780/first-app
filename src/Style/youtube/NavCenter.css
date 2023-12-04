@@ -1,0 +1,22 @@
+
+.Searchbar{
+    display: flex;
+}
+input{
+    border: 1px solid white ;
+    border-radius: 5px;
+    background-color: black;
+    width: 300px;
+}
+
+i{
+    cursor: pointer;
+}
+
+.mic-icon{
+    margin: 4px;
+    /* border: 1px solid black;
+    background-color: gray;
+    border-radius: 10px; */
+    width: 15px;
+}

@@ -1,0 +1,27 @@
+.Side-bar {
+    border: 2px solid black;
+    height: 750px;
+    width: 70px;
+    background-color: black;
+}
+
+.Side-icon {
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+    margin-top: 15px;
+    margin: 15px;
+
+
+}
+
+/* .Side-icon1 {
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+    
+} */
+
+/* .Mar{
+    margin: 3px;
+} */

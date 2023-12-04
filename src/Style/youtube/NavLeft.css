@@ -1,0 +1,20 @@
+.nav-left-container{
+    display: flex;
+    margin: 5px 0;
+}
+
+.youtube-logo{
+    padding: 0 20px;
+}
+.youtube-icon{
+    color: red;
+    font-size: 20px;
+}
+
+.logo-text{
+    font-weight: bold;
+    font-size: 20px;
+}
+sup{
+   font-size: 9px;
+}
